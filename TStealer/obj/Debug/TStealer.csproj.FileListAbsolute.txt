@@ -1,0 +1,8 @@
+C:\Users\starf.FOREVKA\Desktop\TStealer\TStealer\bin\Debug\TStealer.exe.config
+C:\Users\starf.FOREVKA\Desktop\TStealer\TStealer\bin\Debug\TStealer.exe
+C:\Users\starf.FOREVKA\Desktop\TStealer\TStealer\bin\Debug\TStealer.pdb
+C:\Users\starf.FOREVKA\Desktop\TStealer\TStealer\obj\Debug\TStealer.csprojResolveAssemblyReference.cache
+C:\Users\starf.FOREVKA\Desktop\TStealer\TStealer\obj\Debug\TStealer.exe
+C:\Users\starf.FOREVKA\Desktop\TStealer\TStealer\obj\Debug\TStealer.pdb
+C:\Users\starf.FOREVKA\Desktop\TStealer\TStealer\bin\Debug\Renci.SshNet.dll
+C:\Users\starf.FOREVKA\Desktop\TStealer\TStealer\bin\Debug\Renci.SshNet.xml
